@@ -1,0 +1,1 @@
+# plugins-mouse-cursor-customizer
